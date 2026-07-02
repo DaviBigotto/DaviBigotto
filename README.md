@@ -4,7 +4,7 @@
 
 🤖 Técnico em Inteligência Artificial
 
-📊 Apaixonado por Dados, Machine Learning e Desenvolvimento de Soluções Inteligentes
+📊 Dados, AI, Machine Learning e Desenvolvimento de Soluções Inteligentes
 
 📍 São Paulo, Brasil
 
