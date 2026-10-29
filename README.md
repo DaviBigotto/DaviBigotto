@@ -1,3 +1,46 @@
+<div align="center">
+  <!-- Banner Superior Personalizado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=220&section=header&text=Davi%20Bigotto&fontSize=50&fontColor=ffffff&sub2=Software%20Engineer%20|%20AI%20&%20Cloud%20Architecture&sub2FontSize=22&animation=fadeIn" width="100%" />
+</div>
+
+<h3 align="center">
+  🚀 <span style="color: #c77dff;">Software Engineer & Tech Lead</span>
+</h3>
+
+<p align="center">
+  Atualmente focado no desenvolvimento de sistemas web, arquitetura em nuvem, inteligência artificial e automações inteligentes.
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <!-- Estatísticas Gerais do GitHub -->
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <!-- Idiomas Mais Usados -->
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <!-- Sequência de Contribuições (Streak Stats igual ao da imagem) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=1a1b26" />
+</div>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,csharp,react,nodejs,docker,aws,postgres,linux,vscode,git" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=7b2cbf&style=flat-square" alt="Profile Views" />
+</div>
 # Olá, eu sou Davi Bigotto 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FECAP
