@@ -1,14 +1,21 @@
 <div align="center">
   <!-- Banner Superior Animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=220&section=header&text=Davi%20Bigotto&fontSize=50&fontColor=64ffda&sub2=Software%20Engineer%20|%20AI%20&%20Data%20Science&sub2FontSize=22&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=220&section=header&text=Davi%20Bigotto&fontSize=50&fontColor=64ffda&sub2=AI%20Engineer%20|%20LLM%20Agents%20&%20Automation&sub2FontSize=22&animation=fadeIn" width="100%" />
+</div>
+
+<br>
+
+<!-- Texto Digitado Animado (Estilo Máquina de Escrever) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&letterSpacing=1px&duration=2600&pause=900&color=64FFDA&center=true&vCenter=true&width=650&height=45&lines=Software+Engineer+%7C+AI+%26+Automation;Orquestração+de+Agentes+LLM+%26+n8n;Desenvolvimento+de+Sistemas+Inteligentes;Python+%7C+C%23+%7C+React+%7C+AWS" alt="Typing SVG" />
 </div>
 
 <h1 align="center" style="color: #64ffda;">Olá, eu sou Davi Bigotto 👋</h1>
 
 <div align="center">
   <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas na FECAP</p>
-  <p>🤖 Técnico em Inteligência Artificial</p>
-  <p>📊 Dados, AI, Machine Learning e Desenvolvimento de Soluções Inteligentes</p>
+  <p>🤖 Especialista em IA, Automações e Orquestração de Agentes LLM</p>
+  <p>🚀 Criador de Soluções Inteligentes e Arquiteturas em Nuvem</p>
   <p>📍 São Paulo, Brasil</p>
 </div>
 
@@ -19,40 +26,39 @@
 <h2 align="center" style="color: #64ffda;">Sobre Mim</h2>
 
 <p align="center" style="max-width: 800px; margin: 0 auto;">
-  Sou estudante de tecnologia com foco em Dados e Inteligência Artificial. Tenho experiência prática no desenvolvimento de modelos de Machine Learning, automação com Python e construção de projetos que unem software, hardware e análise de dados.
+  Desenvolvedor e entusiasta de tecnologia com foco forte em Inteligência Artificial, Engenharia de Prompt e arquitetura de agentes autônomos. Tenho ampla experiência prática na criação de fluxos de automação avançados, integrações via API, machine learning e sistemas orientados a dados.
 </p>
 
 <p align="center" style="max-width: 800px; margin: 10px auto 0 auto;">
-  Atualmente busco oportunidades de estágio e posições júnior onde eu possa aplicar minhas habilidades para transformar dados em soluções que gerem impacto real.
+  Atualmente atuo desenvolvendo ecossistemas inteligentes, orquestrando LLMs (como OpenAI, agentes autônomos) e criando soluções completas que unificam automação de processos e alto desempenho.
 </p>
 
 <br>
 
 <hr style="border: 0; height: 1px; background: #64ffda; opacity: 0.3;">
 
-<h2 align="center" style="color: #64ffda;">Tecnologias</h2>
+<h2 align="center" style="color: #64ffda;">Stack Tecnológica</h2>
 
-<h3 align="center">Linguagens</h3>
+<h3 align="center">Linguagens & Core</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" title="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="60" title="R"/>
 </div>
 
 <br>
 
-<h3 align="center">Dados & Inteligência Artificial</h3>
+<h3 align="center">IA, Orquestração & Automação</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" title="Scikit-Learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" title="Node.js"/>
 </div>
 
 <p align="center">
-  <code>CNN</code> • <code>LSTM</code> • <code>Random Forest</code> • <code>KNN</code> • <code>Naive Bayes</code>
+  <code>Orquestração de Agentes LLM</code> • <code>n8n Workflows</code> • <code>AI Builder</code> • <code>OpenAI APIs</code> • <code>CNN & LSTM</code> • <code>Pandas</code>
 </p>
 
 <br>
@@ -62,8 +68,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" title="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60" title="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" title="VS Code"/>
 </div>
 
 <br>
@@ -78,7 +85,7 @@
   <p>
     🏅 Finalista FEBRACE 2026 &nbsp;|&nbsp; 🏅 Vencedor Prêmio Topus 2026
   </p>
-  <p><b>Tecnologias:</b> Python • CNN • LSTM • Processamento de imagens de satélite • Machine Learning</p>
+  <p><b>Tecnologias:</b> Python • Redes Neurais (LSTM/CNN) • Processamento de Imagens de Satélite • IA</p>
 </div>
 
 <br>
@@ -109,9 +116,9 @@
 
 <hr style="border: 0; height: 1px; background: #64ffda; opacity: 0.3;">
 
-<h2 align="center" style="color: #64ffda;">📚 Atualmente Estudando</h2>
+<h2 align="center" style="color: #64ffda;">📚 Atualmente Focado Em</h2>
 <div align="center">
-  <p>Deep Learning • Engenharia de Dados • Cloud Computing • Inteligência Artificial Generativa</p>
+  <p>Arquitetura de Agentes LLM • Automações Avançadas com n8n • Cloud Computing • Deep Learning</p>
 </div>
 
 <br>
