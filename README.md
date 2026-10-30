@@ -5,9 +5,9 @@
 
 <br>
 
-<!-- Texto Digitado Animado (Estilo Máquina de Escrever) -->
+<!-- Texto Digitado Animado Corrigido -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&letterSpacing=1px&duration=2600&pause=900&color=64FFDA&center=true&vCenter=true&width=650&height=45&lines=Software+Engineer+%7C+AI+%26+Automation;Orquestração+de+Agentes+LLM+%26+n8n;Desenvolvimento+de+Sistemas+Inteligentes;Python+%7C+C%23+%7C+React+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&letterSpacing=1px&duration=2600&pause=900&color=64FFDA&center=true&vCenter=true&width=650&height=45&lines=Software+Engineer+%7C+AI+%26+Automation;Orquestra%C3%A7%C3%A3o+de+Agentes+LLM+%26+n8n;Desenvolvimento+de+Sistemas+Inteligentes;Python+%7C+C%23+%7C+React+%7C+AWS" alt="Typing SVG" />
 </div>
 
 <h1 align="center" style="color: #64ffda;">Olá, eu sou Davi Bigotto 👋</h1>
