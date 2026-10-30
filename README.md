@@ -5,7 +5,7 @@
 
 <br>
 
-<!-- Texto Digitado Animado Corrigido e Ajustado -->
+<!-- Texto Digitado Animado -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&letterSpacing=1px&duration=2600&pause=900&color=64FFDA&center=true&vCenter=true&width=750&height=45&lines=Software+Engineer+%7C+AI+%26+Automation;Orquestra%C3%A7%C3%A3o+de+Agentes+LLM+%26+n8n;Desenvolvimento+de+Sistemas+Inteligentes;Python+%7C+C%23+%7C+React+%7C+AWS" alt="Typing SVG" />
 </div>
@@ -111,7 +111,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviBigotto&theme=nightowl&hide_border=true&background=011627&fire=64ffda&stroke=64ffda" />
 </div>
 
-<!-- Animação da Cobrinha das Contribuições -->
+<!-- Animação da Cobrinha Corrigida -->
 <div align="center" style="margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/DaviBigotto/DaviBigotto/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </div>
