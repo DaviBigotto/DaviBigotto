@@ -111,6 +111,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviBigotto&theme=nightowl&hide_border=true&background=011627&fire=64ffda&stroke=64ffda" />
 </div>
 
+<!-- Animação da Cobrinha das Contribuições -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/DaviBigotto/DaviBigotto/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</div>
+
 <br>
 
 <hr style="border: 0; height: 1px; background: #64ffda; opacity: 0.3;">
