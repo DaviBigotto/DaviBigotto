@@ -145,6 +145,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DaviBigotto&color=64ffda&style=flat-square" alt="Profile Views" />
-</div>
